@@ -9,7 +9,7 @@ This is an ongoing project. Currently this page is designed to only provide a ba
 2. ~70g of filament
 3. Soldering iron, solder, basic soldering skills 
 
-#### Optional, but highly recommended
+#### Optional, but highly recommended (assembly instructions would assume you have these)
 1. Sharp tweezers
 2. Multimeter
 
