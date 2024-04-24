@@ -24,6 +24,7 @@ This is an ongoing project. Currently this page is designed to only provide a ba
 6. 12x12x4.3mm momentart pushbutton switch $0.1
 7. Five M3x8 button hat screws $0.5
 8. 13.54Mhz NFC stickers (NTAG203, NTAG213, NTAG214 etc). In theory any 13.54Mhz should work $0.1-0.2 per piece
+9. 1-10k resistor (4.7k for perfection)
 
 #### Here are some pictures for refence purposes
 > Please compare your purchases to these photos to make sure you're getting the right thing
@@ -33,3 +34,4 @@ This is an ongoing project. Currently this page is designed to only provide a ba
 ![RFID RC522](img/rc522.jpg)
 ![M3x8](img/m3x8.jpg)
 ![switch](img/switch.jpg)
+![switch](img/resistor.jpg)
