@@ -12,6 +12,7 @@ This is an ongoing project. Currently this page is designed to only provide a ba
 #### Optional, but highly recommended (assembly instructions would assume you have them)
 1. Sharp tweezers
 2. Multimeter
+3. Wire stripper compatible with AWG24
 
 ### Parts list
 > Please note that this device is designed to be as cheap as possible. All parts selected to be easily aquired in any part of the world for a fair price. Unfortunately many stores like to be dishonest with their markups so please use the included approximate price to make sure you're not overpaying tenfold. In most cases every item can be purchased both locally or through Aliexpress (fast vs cheaper).
@@ -20,7 +21,7 @@ This is an ongoing project. Currently this page is designed to only provide a ba
 1. WEMOS D1 Mini Lite (or clone; USB-C or MicroUSB) $3
 2. USB-C or MicroUSB cable (with data lines to upload firmware; any kind to power the device)
 3. RFID RC522 $2
-4. 1m of UTP/FTP ethernet cable $1
+4. 1m of UTP/FTP ethernet cable (AWG24) $1
 5. 5mm RGB led (common cathode) $0.2
 6. 12x12x4.3mm momentart pushbutton switch $0.1
 7. Five M3x8 button hat screws $0.5
