@@ -20,14 +20,14 @@ This is an ongoing project. Currently this page is designed to only provide a ba
 > If possible please get multiples of the cheapest items for spares
 
 1. WEMOS D1 Mini Lite (or clone; USB-C or MicroUSB) $3
-2. USB-C or MicroUSB cable (with data lines to upload firmware; any kind to power the device)
+2. USB-C or MicroUSB cable (with data lines to upload firmware; any kind to power the device) $1
 3. RFID RC522 $2
 4. 1m of UTP/FTP ethernet cable (AWG24) $1
 5. 5mm RGB led (common cathode) $0.2
 6. 12x12x4.3mm momentart pushbutton switch $0.1
 7. Five M3x8 button hat screws $0.5
 8. 13.54Mhz NFC stickers (NTAG203, NTAG213, NTAG214 etc). In theory any 13.54Mhz should work $0.1-0.2 per piece
-9. 1-10k resistor (4.7k for perfection)
+9. 1-10k resistor (4.7k for perfection) $0.1
 
 #### Here are some pictures for refence purposes
 > Please compare your purchases to these photos to make sure you're getting the right thing
