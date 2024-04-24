@@ -15,6 +15,7 @@ This is an ongoing project. Currently this page is designed to only provide a ba
 
 ### Parts list
 > Please note that this device is designed to be as cheap as possible. All parts selected to be easily aquired in any part of the world for a fair price. Unfortunately many stores like to be dishonest with their markups so please use the included approximate price to make sure you're not overpaying tenfold. In most cases every item can be purchased both locally or through Aliexpress (fast vs cheaper).
+> If possible please get multiples of the cheapest items for spares
 
 1. WEMOS D1 Mini Lite (or clone; USB-C or MicroUSB) $3
 2. USB-C or MicroUSB cable (with data lines to upload firmware; any kind to power the device)
