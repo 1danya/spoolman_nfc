@@ -1,7 +1,7 @@
 # Spoolman NFC Thingy (Beta)
 
 ### Attention!
-This is an ongoing project. Currently this page is designed to only provide a basic description and part list. After the initial testing is finished by the early adopters, it will be significantly extended.
+This is an ongoing project. Currently this page is designed to only provide a basic description and part list. After the initial testing is finished by the early adopters, it will be significantly extended. [Here](https://www.youtube.com/watch?v=UArv1gzjmVA) you can find a basic demo of how this device works.
 
 ### Prerequisites
 #### Mandatory
@@ -35,3 +35,9 @@ This is an ongoing project. Currently this page is designed to only provide a ba
 ![M3x8](img/m3x8.jpg)
 ![switch](img/switch.jpg)
 ![switch](img/resistor.jpg)
+
+### Upcoming changes to repo (TODO)
+- Assembly instructions with photos
+- STLs
+- Source code
+- How device works
