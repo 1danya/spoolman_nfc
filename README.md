@@ -26,3 +26,10 @@ This is an ongoing project. Currently this page is designed to only provide a ba
 8. 13.54Mhz NFC stickers (NTAG203, NTAG213, NTAG214 etc). In theory any 13.54Mhz should work $0.1-0.2 per piece
 
 #### Here are some pictures for refence purposes
+> Please compare your purchases to these photos to make sure you're getting the right thing
+> Also note that Wemos and RC522 should be sold as a kit (as displayed below)
+
+![WEMOS D1 Mini Lite](img/wemos.jpg)
+![RFID RC522](img/rc522.jpg)
+![M3x8](img/m3x8.jpg)
+![switch](img/switch.jpg)
