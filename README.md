@@ -23,7 +23,7 @@ This is an ongoing project. Currently this page is designed to only provide a ba
 2. USB-C or MicroUSB cable (with data lines to upload firmware; any kind to power the device) $1
 3. RFID RC522 $2
 4. 1m of UTP/FTP ethernet cable (AWG24) $1
-5. 5mm RGB led (common cathode) $0.2
+5. 5mm Matte RGB led (common cathode) $0.2
 6. 12x12x4.3mm momentart pushbutton switch $0.1
 7. Five M3x8 button hat screws $0.5
 8. 13.54Mhz NFC stickers (NTAG203, NTAG213, NTAG214 etc). In theory any 13.54Mhz should work $0.1-0.2 per piece
