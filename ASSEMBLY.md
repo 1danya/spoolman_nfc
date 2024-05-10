@@ -34,5 +34,7 @@ This is what you want to end up with, in total you should use 15 wires of differ
 First you wanna put all the wires that would go into the PCBs because you need to be extra precise with how they are positioned. Strip one end of the 20cm piece (you want to have around 10mm of the naked wire) and insert the wire into the groove.
 Carefully poke it with sharp tweezers to make it go inside. You don't need to push it all the way, just make sure it holds.
 The begging of the insulation **should** be flush with the beginning of the groove:
+
 ![](/img/start_of_insulation_and_groove.png)
+
 Don't worry if you are not 100% precise just now. You will fix it later when you'll putting the PCBs in.
