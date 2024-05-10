@@ -20,7 +20,7 @@ If you can't properly press it or it wobbles around, reprint button cap with a d
 
 You would also need to print the [BACK_SIDE_beta.STL](/STLs/BACK_SIDE_beta.STL), but it can be done at any point of the build.
 
-### Step 1: Laying down the wire
+### Step 2: Laying down the wires
 > Tip: Make sure you are using UTP/FTP with a solid core wire. Stranded might work too, but it would be much less convinient for you.
 
 Cut two 20cm pieces of the FTP/UTP cable, carefully remove insulation, foil (if FTP) and uninsulated copper wire. Separate the pairs, but remember to be gentle with it, you don't want to break the wire inside the insulation. You should have 2x4x2=sixteen 20mm pieces by stripping two cables.
