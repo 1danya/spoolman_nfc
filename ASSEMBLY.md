@@ -1,17 +1,21 @@
 ## Assembly Instructions
 
 ### Step 0: Before you begin
-- print test piece
+Please read the instructions to the end before you begin.
+
+You may want to print a small [TEST_PIECE_beta.STL](/STLs/nfc_spoolman_TEST_PIECE_beta.STL). You should be able to insert wires in all of the grooves, that should verify that the real part would work as expected.
 - link to Ioans build log
 
 ### Step 1: Print STLs
-> Tip: Please make sure your printer is properly calibrated (especially PA and flow rate) as it is critical to get correct grooves for wires.
+> Tip: Please make sure your printer is properly calibrated (especially PA and flow rate) as it is critical to get proper grooves for wires.
 
 > Tip: You can use any kind of firm filament from PLA to ASA.
 
 > Tip: Print all STLs with default positioning without any supports. Button cap is "turned upside down" in STL so that the visible part is printed on the first layer.
 
 Print [FRONT_COVER_beta.STL](/STLs/nfc_spoolman_FRONT_COVER_beta.STL) and [BUTTON_CAP_beta.STL](/STLs/BUTTON_CAP_beta.STL) first. Put your button cap in its hole and cover it with button like shown in the picture:
+
+> Note: You need to cut the button legs so that it would fit the profile in the front cover. Don't cut too much, just enough to put in into its place.
 
 ![](/img/button_in_place.png)
 
